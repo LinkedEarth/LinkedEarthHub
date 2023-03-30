@@ -9,24 +9,29 @@ dependencies:
   # need to be specified.
   #
   - jupyterhub-singleuser>=3.0
-  - cartopy
+  - cartopy>=0.21.1
   - pip
-  - python
+  - python=3.10
   - libstdcxx-ng
   - numpy
   - netcdf4
   - aiohttp
   - zarr
+  - s3fs
   - fsspec
   - requests
   - xarray
   - cftime
   - dask
-  - jupyter
-  - jupyterlab_templates
+  - intake
+  - climlab
+  - jupyter=1.0.0
+  - jupyterlab=3.5.2
   - pip:
     - setuptools
-    - pyleoclim
+    - pangaeapy
+    - pyleoclim==0.10.0
     - nc-time-axis
     - ipympl
+    - folium
 
