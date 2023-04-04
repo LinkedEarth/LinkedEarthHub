@@ -1,3 +1,6 @@
+[![PyPI version](https://badge.fury.io/py/pyleoclim.svg)](https://badge.fury.io/py/pyleoclim)
+[![NSF-2126510](https://img.shields.io/badge/NSF-2126510-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2126510)
+
 # LinkedEarthHub
 This repository contains information pertaining to the LinkedEarth Jupyter Hub. To learn more about the hub and how you can join, please see [this page](http://linked.earth/research_hub.html). 
 
