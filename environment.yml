@@ -30,7 +30,7 @@ dependencies:
   - pip:
     - setuptools
     - pangaeapy
-    - pyleoclim
+    - pyleoclim==0.13.0
     - git+https://github.com/LinkedEarth/pylipd.git@main
     - nc-time-axis
     - ipympl
